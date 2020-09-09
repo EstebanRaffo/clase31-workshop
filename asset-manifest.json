@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clase31-workshop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/clase31-workshop/static/js/main.aaa87b7f.chunk.js",
+    "main.js.map": "/clase31-workshop/static/js/main.aaa87b7f.chunk.js.map",
+    "runtime-main.js": "/clase31-workshop/static/js/runtime-main.3352d05e.js",
+    "runtime-main.js.map": "/clase31-workshop/static/js/runtime-main.3352d05e.js.map",
+    "static/js/2.653b8a97.chunk.js": "/clase31-workshop/static/js/2.653b8a97.chunk.js",
+    "static/js/2.653b8a97.chunk.js.map": "/clase31-workshop/static/js/2.653b8a97.chunk.js.map",
+    "index.html": "/clase31-workshop/index.html",
+    "precache-manifest.ddf74f759b8de82e9c6ef66d0eeee5dc.js": "/clase31-workshop/precache-manifest.ddf74f759b8de82e9c6ef66d0eeee5dc.js",
+    "service-worker.js": "/clase31-workshop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/clase31-workshop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.653b8a97.chunk.js.LICENSE.txt": "/clase31-workshop/static/js/2.653b8a97.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clase31-workshop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3352d05e.js",
+    "static/js/2.653b8a97.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aaa87b7f.chunk.js"
+  ]
+}
